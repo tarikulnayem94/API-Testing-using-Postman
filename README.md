@@ -12,10 +12,11 @@
   
 
 <h3 align="left"><b> Technology used </h3>
+  
   1. postman
   
-    
   2. newman
+
 <h3 align="left"><b> Report </h3>
 <hr> 
 <div><p>
