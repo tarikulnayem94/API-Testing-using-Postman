@@ -4,11 +4,9 @@
 <div><p>
   
 
-<h3 align="left"><b> Project Summary: </h3><hr> 
-<div><p>
-  
+<h3 align="left"><b> Project Summary: </h3> This project has been conducted API testing using tools such as Postman, newman.
 
-This project has been conducted API testing using tools such as Postman, newman.
+
 <hr> 
 <div><p>
   
